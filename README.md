@@ -1,9 +1,7 @@
-# TicTacToe
-
-##Peer 2 Peer implementation of TicTacToe! 
+# P2P TicTacToe
 
 I'm not quite sure if I'm going to build an interface yet, but if I do it'll be in Swing GUI.
-I don't really want to be building anything too complicated.
+I don't really want to be building anything too complicated. So here you go! **Peer 2 Peer TicTacToe!**
 
 ## Class Diagram
 
